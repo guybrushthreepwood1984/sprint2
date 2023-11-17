@@ -4,11 +4,11 @@
 
 Exercises to understand and implement higher-order functions throttle, debounce and memoize.
 
-Project based on this template: https://github.com/jclumbiarres/tsbasico (hexagonal branch)
-Written in Typescript
-Tested with jest
-Executable in HTML src/public sprint2.html (all functions directly in HTML-Script, but come from transpiled TS-files)
-Push to github automatically executes Jest in github actions.
+- Project based on this template: https://github.com/jclumbiarres/tsbasico (hexagonal branch)
+- Written in Typescript
+  Tested with jest
+  > Executable in HTML src/public sprint2.html (all functions directly in HTML-Script, but come from transpiled TS-files)
+  > Push to github automatically executes Jest in github actions.
 
 Comandos:
 
