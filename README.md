@@ -1,4 +1,4 @@
-#Higher Order Functions
+# Higher Order Functions
 
 Exercises to understand and implement higher-order functions throttle, debounce and memoize.
 
